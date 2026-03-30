@@ -20,7 +20,7 @@
 
 ## Diagrama de la base de datos
 
-![Diagrama](esquema_sakila.png)
+![Diagrama](./esquema_sakila.png)
 
 ---
 
