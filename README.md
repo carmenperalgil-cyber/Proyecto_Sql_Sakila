@@ -18,6 +18,12 @@
 
 ---
 
+## Diagrama de la base de datos
+
+![Diagrama](esquema_sakila.png)
+
+---
+
 ## 1. Descripción del proyecto
 
 El objetivo de este proyecto es aplicar los conocimientos adquiridos en el módulo de SQL trabajando con **Sakila**, una base de datos relacional que simula el sistema de gestión de una cadena de tiendas de alquiler de películas.
